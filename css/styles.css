@@ -1,0 +1,8 @@
+h1:not(.mars) {
+  text-align: center;
+}
+
+.card {
+  padding: 10px;
+  margin: 5px;
+}
